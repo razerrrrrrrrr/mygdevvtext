@@ -1,0 +1,12 @@
+{
+  "name": "Doubtful Shock (Moving saw platformer)",
+  "short_name": "Doubtful Shock (Moving saw platformer)",
+  "id": "com.example.gamename",
+  "description": "Demonstrate how to make objects move along the borders of another object.",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
